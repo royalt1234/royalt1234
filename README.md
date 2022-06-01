@@ -8,7 +8,7 @@ DevOps Engineer
 * 🖥️  See my portfolio at [Here](http://mosesitoya.link/)
 * ✉️  You can contact me at [thursdayfrip@gmail.com](mailto:thursdayfrip@gmail.com)
 * 🚀  I'm currently working on [Learning DevOps](http://Darey.io)
-* 🧠  I'm learning Jenkins
+* 🧠  I'm learning Terraform 
 * 🤝  I'm open to collaborating on Cloud / AWS related projects
 * ⚡  I love to explore hiking trails with fellow adventurers on some weekends. Currently reading a book "The Phoenix Project".
 
