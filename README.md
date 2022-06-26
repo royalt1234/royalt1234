@@ -12,6 +12,10 @@ DevOps Engineer
 * 🤝  I'm open to collaborating on Cloud / AWS related projects
 * ⚡  I love to explore hiking trails with fellow adventurers on some weekends. Currently reading a book "The Phoenix Project".
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=temi-tegbe&label=Profile%20views&color=0e75b6&style=flat" alt="royalt1234" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=royalt1234" alt="royalt1234" /></a> </p>
+
 <a href="https://www.twitter.com/royalt_m" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/royalt_m?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a><a href="https://www.github.com/royalt1234" target="_blank" rel="noreferrer"><img
