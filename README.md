@@ -9,7 +9,7 @@ DevOps Engineer
 * ✉️  You can contact me at [thursdayfrip@gmail.com](mailto:thursdayfrip@gmail.com)
 * 🚀  I'm currently working with [Darey.io](http://Darey.io)
 * 🧠  I'm learning Terraform 
-* 🤝  I'm open to collaborating on Cloud / AWS related projects
+* 🤝  I'm open to collaborating on DevOps related projects
 * ⚡  I love to explore hiking trails with fellow adventurers on some weekends. Currently reading a book "The Phoenix Project".
 <p align='right'>
 <h4>💬 Sometimes I like to write things here...</h4>
