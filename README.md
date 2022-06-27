@@ -11,6 +11,11 @@ DevOps Engineer
 * 🧠  I'm learning Terraform 
 * 🤝  I'm open to collaborating on Cloud / AWS related projects
 * ⚡  I love to explore hiking trails with fellow adventurers on some weekends. Currently reading a book "The Phoenix Project".
+<p align='right'>
+<h4>💬 Sometimes I like to write things here...</h4>
+  <a href="https://github.com/Lordwales/"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Lordwales/"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=temi-tegbe&label=Profile%20views&color=0e75b6&style=flat" alt="royalt1234" /> </p>
 
@@ -34,6 +39,12 @@ src="https://img.shields.io/github/followers/royalt1234?logo=github&style=for-th
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
+
+<h5>DevOps / Infrastructure</h5>
+<p >
+  <img src="https://img.shields.io/badge/-docker-blue?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-jenkins-lightgrey?&style=for-the-badge&logo=jenkins&logoColor=red" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-octopus%20Deploy-blue" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-redis-lightgrey?&style=for-the-badge&logo=redis&logoColor=red" />&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-AWS-yellow?&style=for-the-badge&logo=aws&logoColor=white" /> &nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/-PACKER-blue?&style=for-the-badge&logo=packer&logoColor=white" />&nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-Terraform-blueviolet?&style=for-the-badge&logo=terraform&logoColor=white" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-ANSIBLE-yellow?&style=for-the-badge&logo=ansible&logoColor=white" /> &nbsp;&nbsp;&nbsp; <img src="https://img.shields.io/badge/-kubernetes-blue?&style=for-the-badge&logo=kubernetes&logoColor=white" />&nbsp;&nbsp;&nbsp;
+</p>
+<hr>
 
 
 ### Socials
