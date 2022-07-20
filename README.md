@@ -5,7 +5,7 @@ DevOps Engineer
 ---------------
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [Here](http://mosesitoya.link/)
+* 🖥️  See my portfolio [Here](http://mosesitoya.link/)
 * ✉️  You can contact me at [thursdayfrip@gmail.com](mailto:thursdayfrip@gmail.com)
 * 🚀  I'm currently working with [Darey.io](http://Darey.io)
 * 🧠  I'm learning Helm 
