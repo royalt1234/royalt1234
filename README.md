@@ -7,7 +7,7 @@ DevOps Engineer
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio [Here](http://mosesitoya.link/)
 * ✉️  You can contact me at [thursdayfrip@gmail.com](mailto:thursdayfrip@gmail.com)
-* 🚀  I'm currently working with Pistis Tech Hub as a Senior DevOps Consultant 
+* 🚀  
 * 🤝  I'm open to collaborating on DevOps related projects
 * ⚡  I love to explore hiking trails with fellow adventurers on some weekends. Currently reading a book "The Phoenix Project".
 <p align='right'>
