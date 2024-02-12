@@ -9,7 +9,8 @@ DevOps Engineer
 * ✉️  You can contact me at [thursdayfrip@gmail.com](mailto:thursdayfrip@gmail.com)
 * 🚀  
 * 🤝  I'm open to collaborating on DevOps related projects
-* ⚡  I love to explore hiking trails with fellow adventurers on some weekends. Currently reading a book "The Phoenix Project".
+* ⚡  I love to explore hiking trails with fellow adventurers on some weekends. Currently reading a book "The Phoenix Project". 
+* >>  Terraform is my superpower.
 <p align='right'>
 <h4>💬 Sometimes I like to write things here...</h4>
   <a href="https://dev.to/moses_itoya"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
