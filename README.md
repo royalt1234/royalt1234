@@ -4,7 +4,6 @@ Hi 👋 My name is Moses Itoya
 DevOps Engineer
 ---------------
 
-* 🚀  
 * 🤝  I'm open to collaborating on DevOps related projects
 * ⚡  I love to explore hiking trails with fellow adventurers on some weekends. Currently reading a book "The Phoenix Project".
 <p align='right'>
